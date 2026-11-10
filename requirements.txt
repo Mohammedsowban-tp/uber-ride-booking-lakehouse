@@ -1,0 +1,6 @@
+pyspark==4.1.0
+delta-spark==4.1.0
+pandas
+numpy
+kagglehub
+python-dotenv

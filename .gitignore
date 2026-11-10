@@ -1,0 +1,41 @@
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Generated data
+data/bronze/
+data/silver/
+data/gold/
+
+# Raw datasets
+data/raw/*.csv
+
+# Spark temporary files
+spark-warehouse/
+metastore_db/
+derby.log/
+
+# OS files
+.DS_Store
+Thumbs.db
