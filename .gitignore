@@ -28,8 +28,7 @@ data/bronze/
 data/silver/
 data/gold/
 
-# Raw datasets
-data/raw/*.csv
+
 
 # Spark temporary files
 spark-warehouse/
