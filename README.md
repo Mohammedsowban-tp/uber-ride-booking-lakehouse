@@ -82,13 +82,13 @@ Developed 25 SQL queries across five business domains:
 1. Clone the repository:
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/Mohammedsowban-tp/uber-ride-booking-lakehouse.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd uber-data-engineering-platform
+cd uber-ride-booking-lakehouse
 ```
 
 3. Create a virtual environment:
