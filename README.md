@@ -151,3 +151,13 @@ Use the Gold-layer Delta tables to execute the business queries in:
 - `sql/gold_validation.sql`
 
 Refer to the architecture documentation for the complete pipeline design.
+
+## Dataset Attribution
+
+This project uses the **Uber Data India** dataset.
+
+- **Creator:** anilrohan
+- **Source:** [Kaggle – Uber Data India](https://www.kaggle.com/datasets/anilrohan/uber-data-india)
+- **License:** CC BY-SA 4.0
+
+The dataset is used in accordance with its original licence. All credit for the original dataset belongs to its creator.
