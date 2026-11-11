@@ -161,3 +161,9 @@ This project uses the **Uber Data India** dataset.
 - **License:** CC BY-SA 4.0
 
 The dataset is used in accordance with its original licence. All credit for the original dataset belongs to its creator.
+
+## Licensing
+
+- Original project code and documentation are licensed under the MIT License (see `LICENSE`).
+- The dataset `data/raw/ncr_ride_bookings.csv` is licensed under CC BY-SA 4.0 by its original creator.
+- Third-party components, including MySQL Connector/J, remain subject to their respective licences.
